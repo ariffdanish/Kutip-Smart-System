@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using WBL_Project_Assignment2025.Models;
+using KutipSmart.Models;
 
-namespace WBL_Project_Assignment2025.Controllers
+namespace KutipSmart.Controllers
 {
     public class HomeController : Controller
     {

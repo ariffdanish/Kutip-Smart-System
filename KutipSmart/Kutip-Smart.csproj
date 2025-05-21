@@ -4,7 +4,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>WBL_Project_Assignment2025</RootNamespace>
+	  <RootNamespace>KutipSmart</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,4 +1,4 @@
-namespace WBL_Project_Assignment2025.Models
+namespace KutipSmart.Models
 {
     public class ErrorViewModel
     {
